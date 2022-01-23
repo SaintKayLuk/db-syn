@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99d87569-0596-4219-be36-9b769084e730" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23UFFPzyOPZZfCqfqoNDwDtwi4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-clickhouse/src/main/java/com/security/clickhouse" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\ideaproject\db-syn\mysql-clickhouse\src\main\java\com\security\clickhouse" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.security.kc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\ideaproject\db-syn\kafka-clickhouse\src" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager">
+    <configuration name="MysqlClickhouseApplicatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.security.MysqlClickhouseApplicatin" />
+      <module name="mysql-clickhouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MysqlClickhouseApplicatin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99d87569-0596-4219-be36-9b769084e730" name="Default Changelist" comment="" />
+      <created>1641780654972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641780654972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="-1004" key="#Project_Structure" timestamp="1642470627808">
+      <screen x="0" y="-1080" width="1536" height="834" />
+    </state>
+    <state x="361" y="-1004" key="#Project_Structure/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642470627808" />
+    <state x="361" y="76" key="#Project_Structure/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1641804952548" />
+    <state x="599" y="-808" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1642470651073">
+      <screen x="0" y="-1080" width="1536" height="834" />
+    </state>
+    <state x="599" y="-808" key="#com.intellij.debugger.actions.ViewTextAction/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642470651073" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642731271903">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="-1008" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642046068836" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1642731271903" />
+    <state x="574" y="-979" key="#com.intellij.ide.util.MemberChooser" timestamp="1642499228857">
+      <screen x="0" y="-1080" width="1536" height="834" />
+    </state>
+    <state x="574" y="-979" key="#com.intellij.ide.util.MemberChooser/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642499228857" />
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642045057751" />
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1642597777578">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1642597777578" />
+    <state x="1053" y="245" width="569" height="363" key="#xdebugger.evaluate" timestamp="1642740622258">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="678" y="-697" width="569" height="363" key="#xdebugger.evaluate/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642501198405" />
+    <state x="1053" y="245" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1642740622258" />
+    <state width="466" height="466" key="DebuggerActiveHint" timestamp="1642597772823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="466" height="466" key="DebuggerActiveHint/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642133260406" />
+    <state width="466" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1642597772823" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1642052449114">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642038202496" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1642052449114" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642381" />
+    <state width="1490" height="225" key="GridCell.Tab.0.bottom/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.center/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642381" />
+    <state width="1490" height="225" key="GridCell.Tab.0.center/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.left/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642381" />
+    <state width="1490" height="225" key="GridCell.Tab.0.left/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.right/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642381" />
+    <state width="1490" height="225" key="GridCell.Tab.0.right/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.1.bottom" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.bottom/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="131" key="GridCell.Tab.1.bottom/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642374" />
+    <state width="1490" height="225" key="GridCell.Tab.1.bottom/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.1.center" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.center/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="131" key="GridCell.Tab.1.center/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642374" />
+    <state width="1490" height="225" key="GridCell.Tab.1.center/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.1.left" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.left/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="131" key="GridCell.Tab.1.left/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642374" />
+    <state width="1490" height="225" key="GridCell.Tab.1.left/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state width="1493" height="169" key="GridCell.Tab.1.right" timestamp="1642740666892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.1.right/-1920.5.1536.834/0.0.1536.834@-1920.5.1536.834" timestamp="1642052206593" />
+    <state width="1493" height="131" key="GridCell.Tab.1.right/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642512642374" />
+    <state width="1490" height="225" key="GridCell.Tab.1.right/0.-1080.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1642056716885" />
+    <state width="1493" height="169" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1642740666892" />
+    <state x="423" y="115" key="NewModule_or_Project.wizard" timestamp="1642052451625">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="423" y="115" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1642052451625" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1642320004300">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="-1080" key="SettingsEditor/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642124592227" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1642320004300" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1642674544272">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1642492870864" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1642674544272" />
+    <state x="663" y="-887" key="new project wizard" timestamp="1641781250534">
+      <screen x="0" y="-1080" width="1536" height="834" />
+    </state>
+    <state x="663" y="-887" key="new project wizard/0.-1080.1536.834/0.0.1536.834@0.-1080.1536.834" timestamp="1641781250534" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1642662155489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1642662155489" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1642600310395">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1642600310395" />
+  </component>
+</project>
