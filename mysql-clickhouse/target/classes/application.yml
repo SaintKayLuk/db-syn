@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    clickhouse:
+      driverClassName: com.clickhouse.jdbc.ClickHouseDriver
+      jdbc-url: "jdbc:clickhouse://192.168.2.12:8123"
+      username: test
+      password: 123456
+
+    mysql:
+      driverClassName: com.mysql.cj.jdbc.Driver
+      jdbc-url: "jdbc:mysql://192.168.2.203:3306"
+      username: test
+      password: 123456
+
+binlog:
+  host: 192.168.2.203
+  port: 3306
+  username: test
+  password: 123456
+  serverId: 1
+#  binlogFilename: mysql-bin.000336
+#  binlogPosition: 2068
+  do-db:
+    - test
+    - atlantis-cloud
+
+
+
+
+logging:
+  file:
+    name: logs/mysql-clickhouse.log
+  logback:
+    rollingpolicy:
+      max-file-size: 500MB
+      max-history: 7
